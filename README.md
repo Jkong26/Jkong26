@@ -1,3 +1,1 @@
-## Hi there 👋
-
-dad
+## Hi there 👋 Welcome to my GitHub portfolio
