@@ -7,7 +7,7 @@ I'm a second-year Computer Science undergraduate who is motivated to learn and i
 ## Skills 🛠️ 
 **Programming Languages**
 - Python
-- C#
+- C/C++
 - SQL
 
 **Core Computer Science Knowledge**
