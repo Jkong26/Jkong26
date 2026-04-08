@@ -9,4 +9,5 @@ Hi! My name's Jenjira Kongpong, I am a final-year Computer Science undergraduate
 
 ## TECHNICAL SKILLS
 ●	Programming:	Python, C, C++, and SQL
+
 ●	Tools:	Visual Studio Code, MongoDB, Jupyter Notebook, GitHub
