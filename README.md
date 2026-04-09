@@ -8,6 +8,9 @@ Hi! My name's Jenjira Kongpong, I am a final-year Computer Science undergraduate
 [Griffith Award for Academic Excellence - 2025](https://www.credly.com/badges/185e5d3c-98fc-4c5d-9a0d-9befef43115e/public_url)
 
 ## Technical Skills
-●	Programming:	Python, C, C++, and SQL
+●	Languages:	Python, C, C++, and SQL
 
-●	Tools:	Visual Studio Code, MongoDB, Jupyter Notebook, GitHub
+●	Tools: Visual Studio Code, Jupyter Notebook, GitHub
+
+●	Databases: MongoDB
+
