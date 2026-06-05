@@ -10,8 +10,8 @@ Hi! My name's Jenjira Kongpong, I am a final-year Computer Science undergraduate
 ## Technical Skills
 ● Languages: Python, C, C++, SQL 
 
-● Frameworks & Libraries: React, Node.js, Express.js, Docker, Kubernetes (Minikube), Nginx, OWASP ZAP 
+● Frameworks & Libraries: React, Node.js, Express.js, Docker, Kubernetes (Minikube), Nginx, PyTorch, NumPy, Matplotlib
 
-● Tools: Visual Studio Code, Jupyter Notebook, GitHub 
+● Tools: Visual Studio Code, Jupyter Notebook, GitHub, OWASP ZAP
 
 ● Databases: MongoDB
