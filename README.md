@@ -7,7 +7,7 @@ Hi! My name's Jenjira Kongpong, I am a final-year Computer Science undergraduate
 ## Achievement
 [Griffith Award for Academic Excellence - 2025](https://www.credly.com/badges/185e5d3c-98fc-4c5d-9a0d-9befef43115e/public_url)
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
